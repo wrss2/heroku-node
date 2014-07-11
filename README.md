@@ -69,6 +69,6 @@ You apps in on name-app.heroku.com and  RUNNING !!!
 Thats Tt All Folks !!! :D 
 
 Please if you have any trouble ask me 
-'''
+
 wrsswrss@gmail.com
-''
+
