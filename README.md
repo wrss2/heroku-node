@@ -18,12 +18,11 @@ subl app.js
 mkdir public
 subl index.html
 
-
-
 Create repository
 
 git init
 git status
+
 echo "node_modules" > .gitignore
 git add .
 git commit -m "my new static site"
@@ -43,16 +42,17 @@ get push heroku master
 SSH problem in Windows Solution :D
 
 Download msysGit and instal it on C:\
-The in Git bash generate ssh by:
+
+Then in Git bash generate ssh with command:
 
 ssh-keygen -t rsa
 
-Then copy this key to ssh keys on accoutn in heroku and then copyfiles from
+Then copy this key to ssh keys on account in heroku and then copy files from
 username/.ssh folder do C:\msysGit and in cmd bash hit command
 
 get push heroku master
 
-you apps in on name-app.heroku.com  RUNNING
+You apps in on name-app.heroku.com and  RUNNING !!!
 
 Thats it folks !!!
 
