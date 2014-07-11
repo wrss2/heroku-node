@@ -1,0 +1,14 @@
+{
+  "name": "her",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mac <wrsswrss5@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.5.1"
+  }
+}
