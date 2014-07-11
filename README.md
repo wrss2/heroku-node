@@ -48,7 +48,7 @@ Then in Git bash generate ssh with command:
 ssh-keygen -t rsa
 
 Then copy this key to ssh keys on account in heroku and then copy files from
-username/.ssh folder do C:\msysGit and in cmd bash hit command
+username/.ssh folder to C:\msysGit and in cmd bash hit command
 
 get push heroku master
 
